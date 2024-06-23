@@ -1,0 +1,8 @@
+openpyxl
+pandas
+tqdm
+et-xmlfile
+numpy
+tzdata
+ipaddress
+csv
